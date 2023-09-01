@@ -7,12 +7,12 @@ This is Rifsha Ashraf. 👋
 Here are some ideas to get you started:
 -->
 
-🎓 Currently pursuing a Bachelor's degree in Computer Science (BSCS) to establish a strong foundation for technology and programming. <br/>
-🔭 Currently working on various web development projects as a part-time freelance front-end developer. <br/>
-🌱 Currently learning Python programming to expand my skills and explore its diverse applications. <br/>
-👯 Looking to collaborate on open-source projects and exciting tech initiatives that align with my interests. <br/>
-🤔 Seeking assistance in staying updated on the latest trends and advancements in the tech industry. <br/>
-💬 Ask me about web development, content creation, or my experiences as a BSCS student. <br/>
+- Currently pursuing a Bachelor's degree in Computer Science (BSCS) to establish a strong foundation for technology and programming. <br/>
+- Currently working on various web development projects as a part-time freelance front-end developer. <br/>
+- Currently learning Python programming to expand my skills and explore its diverse applications. <br/>
+- Looking to collaborate on open-source projects and exciting tech initiatives that align with my interests. <br/>
+- Seeking assistance in staying updated on the latest trends and advancements in the tech industry. <br/>
+- Ask me about web development, content creation, or my experiences as a BSCS student. <br/>
 
 <h3>Connect with me:</h3>
 
