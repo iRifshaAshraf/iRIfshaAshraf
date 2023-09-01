@@ -30,6 +30,9 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iRifshaAshraf&show_icons=true&locale=en&layout=compact&bg_color=000000" alt="iRifshaAshraf" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iRifshaAshraf&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=FFFFFF" alt="iRifshaAshraf" /></p>
+
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iRifshaAshraf1&show_icons=true&locale=en" alt="iRifshaAshraf" /></p>
 
