@@ -33,9 +33,9 @@ Feel free to connect with <a href="https://www.linkedin.com/in/rifshaashraf/">Li
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
-<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iRifshaAshraf&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=FFFFFF" alt="iRifshaAshraf" /></div>
+<div style="display: block; clear: both;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iRifshaAshraf&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=FFFFFF" alt="iRifshaAshraf" /></div>
 
-<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=iRifshaAshraf&show_icons=true&locale=en&bg_color=000000&text_color=FFFFFF" alt="iRifshaAshraf" /></div>
+<div style="display: block; clear: both;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=iRifshaAshraf&show_icons=true&locale=en&bg_color=000000&text_color=FFFFFF" alt="iRifshaAshraf" /></div>
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iRifshaAshraf&theme=dark)](https://git.io/streak-stats)
