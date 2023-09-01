@@ -20,3 +20,9 @@ Here are some ideas to get you started:
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iRifshaAshraf)](https://git.io/streak-stats)
+
+
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iRifshaAshraf&theme=dark)](https://git.io/streak-stats)
+
