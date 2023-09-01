@@ -32,12 +32,13 @@ Here are some ideas to get you started:
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iRifshaAshraf&show_icons=true&locale=en" alt="iRifshaAshraf" /></p>-->
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iRifshaAshraf&show_icons=true&locale=en&bg_color=000000" alt="iRifshaAshraf" /></p>-->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iRifshaAshraf&show_icons=true&locale=en&bg_color=000000&text_color=FFFFFF" alt="iRifshaAshraf" /></p>
+
 
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iRifshaAshraf1&show_icons=true&locale=en" alt="iRifshaAshraf" /></p> -->
 
 
 ### :fire: My Stats :
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iRifshaAshraf&show_icons=true&locale=en&bg_color=000000&text_color=FFFFFF" alt="iRifshaAshraf" /></p>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iRifshaAshraf&theme=dark)](https://git.io/streak-stats)
 
