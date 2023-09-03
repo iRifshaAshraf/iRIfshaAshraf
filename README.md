@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h3>Connect with me:</h3>
 
-Feel free to connect with <a href="https://www.linkedin.com/in/rifshaashraf/">LinkedIn</a>
+Feel free to connect with me <a href="https://www.linkedin.com/in/rifshaashraf/">LinkedIn</a>
 <!--me via [![Linkedin Badge](https://img.shields.io/badge/-Rifsha-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/rifshaashraf/)).-->
 
 
