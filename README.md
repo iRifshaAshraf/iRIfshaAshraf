@@ -30,6 +30,8 @@ Outside of coding, I enjoy photography, exploring nature, trying new foods, and 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" width="40" height="40"/>
 </p>
+
+
 ---
 
 ### 🌐 Connect with Me
